@@ -57,3 +57,5 @@ To add these to options.cfg, add a new line formatted `<Setting Name>=<Value>`
 ## Alternate Usage
 
 You can also run it from the command line with this format: `osuMissAnalyzer.exe [<replay> [<beatmap>]]`
+
+[<img src="https://open.autocode.com/static/images/open.svg?" width="192">](https://open.autocode.com/)
